@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: flight-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jesus
+Implementation-Vendor-Id: mau.flight-service
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/flight-service
+Created-By: Maven Integration for Eclipse
+
